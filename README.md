@@ -9,7 +9,14 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 - Responsive UI design for seamless user experience across devices.
 - Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
 - Deployed using GitHub Pages for easy access and sharing.
-![Health-Plus Image-1](Homepage.png)
+
+## Screenshots
+
+![Home page](Homepage.png)
+![Services page](Services.png)
+![Aboutus page](Aboutus.png)
+![Book appoinment](Bookappoinment.png)
+
 
 
 
